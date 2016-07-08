@@ -1,4 +1,4 @@
-Welcome to Django Boilerplate documentation!
+Welcome to Django Boilerplate documentation! (Temporary README until it's more my own)
 =========================================
 
 This is an awesome **Django Project Boilerplate**!
