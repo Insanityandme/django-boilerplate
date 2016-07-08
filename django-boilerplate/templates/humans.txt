@@ -1,0 +1,12 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Filip Bengtegård -- Developer -- 
+
+# TECHNOLOGY COLOPHON
+    Django
+    HTML5 boilerplate
+    HTML5, CSS3
+    jQuery, Modernizr
